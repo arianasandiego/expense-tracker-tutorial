@@ -21,3 +21,14 @@ Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
 - Form Container
 - Button
 - Responsive Design
+
+3. JS
+
+- DOM Elements
+- Functions
+  - Add Transaction
+  - Update Transaction List
+  - Create Transaction Element
+  - Update Summary
+  - Format Currency
+  - Remove Transaction
